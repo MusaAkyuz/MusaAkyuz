@@ -1,10 +1,20 @@
-
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/62879859/190505462-8aab3862-0133-4236-b718-a36f4a719e6d.gif" alt="Hello there">
+    <img src="./images/hellothere.gif" alt="Hello there">
 </p>
-<br/>
+<h1 align="center">
+    Welcome to my GitHub :smile::sparkles::yum::fire:
+</h1>
+<br>
+    I am someone who trying to catch something :+1::punch:
+    
+</br>
+<br />
 
-**Welcome, my GitHub :smile:**
-
-
-
+<div>
+    <span>
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MusaAkyuz&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="My github stats" /></a>
+    </span>
+    <span>
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusaAkyuz&layout=compact&theme=dark&hide_border=true"/></a>
+    </span>
+</div>
