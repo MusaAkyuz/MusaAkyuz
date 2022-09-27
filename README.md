@@ -1,11 +1,20 @@
 <p align="center">
     <img src="./images/hellothere.gif" alt="Hello there">
 </p>
-<h1 align="center">
-    Welcome to my GitHub :smile::sparkles::yum::fire:
-</h1>
+
 <br>
-    I am someone who trying to catch something :+1::punch:
+    Keywords that introduce me : 
+    Computer :computer: 
+    Cyber Security :unlock:
+    Blue Team :blue_book:
+    Networks 🌐
+    Robotic 🤖
+    Arduino 🔌
+    Hardware System 🧰
+    Python 🐍
+    Biker :bicyclist: 
+    Photographer :camera: 
+    Model Rocketer 🚀
     
 </br>
 <br />
