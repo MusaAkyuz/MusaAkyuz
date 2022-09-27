@@ -35,7 +35,9 @@
 
 <div align="center">
     <div>
-        <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MusaAkyuz&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="My github stats" /></a>
+        <p>
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MusaAkyuz&show_icons=true&include_all_commits=true&theme=dark&hide_border=false" alt="My github stats" /></a>
+        </p>
     </div>
     <div>
         <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=musaakyuz&theme=dark&show_icons=true&locale=en&layout=compact" alt="musaakyuz" /></p>
